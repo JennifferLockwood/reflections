@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+I can put files in the staging area without the necessity of moving or deleting
+files from my working directory. I think this offers me the possibility of
+controlling my files and, of course, my commits.
