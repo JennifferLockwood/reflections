@@ -5,3 +5,28 @@ repository? What value do you think it offers?
 I can put files in the staging area without the necessity of moving or deleting
 files from my working directory. I think this offers me the possibility of
 controlling my files and, of course, my commits.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+Using the git diff --staged to check my commits.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+I can substantial changes to my project without affecting my original idea.
+With branches it's possible to play more with creative options of different
+features of a project.
+
+How do the diagrams help you visualize the branch structure?
+They help me to have a clearer idea of what is happening between the branches
+and the master, and I understood how git log is showing the commits.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+The result in the master branch with the changes that were in the other branch.
+You represent the diagram in that way to understand what it is happening and
+to have a more clear idea about the whole process.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+I need to practice more this to know pros and cons of Git's merging. So far, I
+think that is a pretty cool thing.
